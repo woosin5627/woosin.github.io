@@ -1,7 +1,6 @@
 ---
 layout: page
-title: "이력서"
-permalink: /cv/
+title: "소개"
 ---
 
 ### 학력
